@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Silas Myrrh
+- 👀 I’m interested in automation and UI design.
+- 🌱 I’m currently learning software engineering at SFU.
+- 💞️ I’m looking to collaborate on something...
+- 📫 How to reach me silas.myrrh@gmail.com
